@@ -1,0 +1,7 @@
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\bin\Debug\PlaylistLibraryUT.dll
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\bin\Debug\PlaylistLibraryUT.pdb
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\bin\Debug\PlaylistLibrary.dll
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\bin\Debug\PlaylistLibrary.pdb
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\obj\Debug\PlaylistLibraryUT.csprojResolveAssemblyReference.cache
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\obj\Debug\PlaylistLibraryUT.dll
+c:\users\smbehl\documents\visual studio 2013\Projects\PlayListManagerCSharp\PlaylistLibraryUT\obj\Debug\PlaylistLibraryUT.pdb
